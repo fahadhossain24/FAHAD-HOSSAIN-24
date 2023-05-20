@@ -5,10 +5,10 @@
 
 Assalamualaikum, Hi, I’m FAHAD-HOSSAIN. At first I want to give you thanks for visitign my github profile. My name is Fahad Hossain but my github profile name is FAHAD-HOSSAIN-24. Due to only FAHAD-HOSSAIN not abilable on github. Whatever, I'm a student. I'm studed at Feni PolyTechnic Institute, Bangladesh. My subject is Comuter science and technology.
 
-Skills: HTML / CSS / JAVASCRIPT / C / C++ / JAVA / C# / PYTHON
+Skills: HTML / CSS / Bootstrap and Tailwind / JAVASCRIPT / React / Node / MongoBD / NextJs and other tools for needed web development
 
-- 🔭 I’m currently working on Problem solving 
-- 🌱 I’m currently learning DSA with C programming language 
+- 🔭 I’m currently working on Web Development (MERN)
+- 🌱 I’m currently learning DSA with. 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: You can message me directly 
 
